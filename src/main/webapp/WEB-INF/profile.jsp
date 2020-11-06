@@ -11,6 +11,7 @@
 
     <div class="container">
         <h1>Welcome to The AdLister!</h1>
+        <h2>Welcome, ${sessionScope.user}!</h2>
     </div>
 
 </body>
